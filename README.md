@@ -17,19 +17,20 @@ The objective is to generate operational insights from structured healthcare dat
 ## Key Visualizations
 
 ### 1. Monthly Total Visits (Last 15 Years)
-![Monthly Total Visits](monthly_total_visits_last_15_years.png)
+![Monthly Total Visits](images/monthly_total_visits_last_15_years.png)
 
 ### 2. Monthly Visits vs Unique Patients
-![Visits vs Unique Patients](monthly_visits_vs_unique_patients.png)
+![Visits vs Unique Patients](images/monthly_visits_vs_unique_patients.png)
 
 ### 3. Service Type Distribution
-![Service Type Distribution](service_type_distribution.png)
+![Service Type Distribution](images/service_type_distribution.png)
 
 ### 4. Top 10 Most Frequent Conditions
-![Top 10 Conditions](top_10_conditions.png)
+![Top 10 Conditions](images/top_10_conditions.png)
 
 ### 5. Top Conditions by Service Type
-![Top Conditions by Service Type](top_conditions_by_service_type.png)
+![Top Conditions by Service Type](images/top_conditions_by_service_type.png)
+
   
 
 ## Tech Stack
@@ -42,3 +43,4 @@ The objective is to generate operational insights from structured healthcare dat
 
 Author: Nezihe Mohiuddin  
 Email: nezihemohiuddin@gmail.com  
+
